@@ -1,0 +1,6 @@
+#Sun, 14 Mar 2021 16:07:17 +0000
+
+info.app.version=0.1
+info.app.name=grails_rest_ci
+grails.env=development
+info.app.grailsVersion=3.3.8
