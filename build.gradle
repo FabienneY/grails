@@ -82,3 +82,5 @@ assets {
     minifyJs = true
     minifyCss = true
 }
+task stage(dependsOn: 'bootJar') {
+}
